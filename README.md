@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ansheena D!
 
-<img src="https://avatars.githubusercontent.com/u/ansheenad?v=4" alt="Ansheena's Profile Picture" width="150" />
-
-
 🌟 **Recent graduate** with a Master’s in Computer Science, specializing in **full-stack development**, **data analysis**, and **software engineering**. I am passionate about creating impactful, user-centric solutions that combine technology and design to deliver exceptional user experiences.
 
 ---
